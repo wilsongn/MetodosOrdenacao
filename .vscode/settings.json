@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "geradordetestes.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "interface.h": "c",
+        "limits": "c",
+        "bucketsort": "c",
+        "selection sort": "c",
+        "time.h": "c"
+    }
+}
