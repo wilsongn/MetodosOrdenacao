@@ -3,6 +3,8 @@
 #include <time.h>
 #include "Interface.h"
 
+//Funções copiadas de: https://www.programiz.com/dsa/radix-sort
+
 /* Função para obter o dígito mais significativo de um número */
 int getMax(int *vetor, int tamanhoVetor) {
     int max = vetor[0];

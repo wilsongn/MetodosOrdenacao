@@ -6,6 +6,8 @@ void mergesort(int *v, int n);
 void sort(int *v, int *c, int i, int f);
 void merge(int *v, int *c, int i, int m, int f);
 
+//Todo arquivo MergeSort.c copiado de: https://gist.github.com/olegon/27c2a880c9b932862e60ab5eb89be5b6
+
 /*
   Dado um vetor de inteiros v e um inteiro n >= 0, ordena o vetor v[0..n-1] em ordem crescente.
 */
