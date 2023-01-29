@@ -20,4 +20,7 @@ Para compilar utilize
 ```
 gcc BucketSort.c MergeSort.c BubbleSort.c InsertionSort.c SelectionSort.c QuickSort.c CountingSort.c RadixSort.c AppServices.c  GeradorDeTestes.c main.c -o main
 ```
+O programa irá criar um arquivo tabela.txt com a média de tempo de execução de cada método para diferentes tempos de execução.
+
+Para ver a análise completa do trabalho abra o arquivo analise.pdf contido no repositório.
 
